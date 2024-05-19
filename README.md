@@ -3,7 +3,7 @@
 ## OffshoreDedicated Introduction
 OffshoreDedicated offers anonymous VPS hosting with a focus on privacy protection and DMCA safety, boasting 99.99% uptime and robust security measures. OffshoreDedicated is committed to providing reliable offshore hosting solutions that ensure freedom and independence on the internet.
 
-![image](https://github.com/arcacewfort/OffshoreDedicated/assets/169786793/44cc09fd-f1e8-4078-8e44-e3b9b1283f65)
+![image](https://github.com/arcacewfort/OffshoreDedicated/assets/169786793/b6795603-40be-452e-9004-ab17c2d5a33d)
 
 ## OffshoreDedicated Official Website Address
 [https://www.offshorededicated.net](https://myportal.offshorededicated.net/aff.php?aff=49)
